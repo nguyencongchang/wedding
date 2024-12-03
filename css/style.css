@@ -1092,9 +1092,10 @@ form label {
   }
 }
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Pacifico", cursive;
   color: #F14E95;
   font-size: 30px;
+  padding-top: 50px;
 }
 .couple-half .groom, .couple-half .bride {
   float: left;
@@ -1112,6 +1113,7 @@ form label {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+  object-fit: cover;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
@@ -1926,6 +1928,11 @@ form label {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
+}
+
+.event-custom {
+  display: flex;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */
