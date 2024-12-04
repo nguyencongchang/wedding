@@ -1,6 +1,6 @@
 
 TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+Phuong Dung - Cong Chang
 
 AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co
